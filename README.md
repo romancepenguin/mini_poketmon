@@ -16,5 +16,9 @@
 - Swing
 - Mysql
 
+## 관계 데이터 모델
+![image](https://user-images.githubusercontent.com/28975774/111063678-69178300-84f3-11eb-8a5b-78d514d688eb.png)
+
+
 ## 본 게임 이미지
 ![image](https://user-images.githubusercontent.com/28975774/111061350-4763cf00-84e6-11eb-82f1-25341810078f.png)
